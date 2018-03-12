@@ -95,6 +95,7 @@ The IK_debug code was transferred to the IK_server.py code. The demo mode flag i
 * `./safe_spawner.sh`
 In a new terminal, after workspace sourcing the IK_server.py was launched by:
 * `rosrun kuka_arm IK_server.py`
+
 The first image is displaying the calculated path and the second image is the completed Pick and Place operation.
 
 ![alt text][image8]
