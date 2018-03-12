@@ -1,6 +1,4 @@
 ## Project: Kinematics Pick & Place
----
-
 
 **Introduction:**  
 
