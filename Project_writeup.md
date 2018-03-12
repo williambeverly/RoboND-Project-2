@@ -67,7 +67,7 @@ The function was utilised to generate a generalized homogenous transform between
 
 #### 3. Decouple Inverse Kinematics problem into Inverse Position Kinematics and inverse Orientation Kinematics; doing so derive the equations to calculate all individual joint angles.
 
-The figure below shows the angle assignments and relevent calculations for theta1, theta2 and theta3. The cosine rule for known sides can be applied to calculate each angle. The values from the DH table are substituted in the relevent places.
+The figure below shows the angle assignments and relevent calculations for **theta1**, **theta2** and **theta3**. The cosine rule for known sides can be applied to calculate each angle. The values from the DH table are substituted in the relevent places.
 
 ![alt text][image4]
 
