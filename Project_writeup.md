@@ -24,9 +24,6 @@ A Jupyter Notebook and PDF have been included in the repository as supporting do
 [image8]: ./imgs/display_path.png
 [image9]: ./imgs/complete.png
 
-## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
-
----
 ### Writeup / README
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.
