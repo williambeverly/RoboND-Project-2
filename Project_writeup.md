@@ -20,7 +20,7 @@ A Jupyter Notebook and PDF have been included in the repository as supporting do
 [image4]: ./imgs/image2.png
 [image5]: ./imgs/r3_6.png
 [image6]: ./imgs/r3_6_calcs.png
-[image7]: ./imgs/testcase1.png
+[image7]: ./imgs/testcase_1.png
 [image8]: ./imgs/display_path.png
 [image9]: ./imgs/complete.png
 
